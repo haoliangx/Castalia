@@ -1,0 +1,198 @@
+
+0.000937400513  SN.node[11].Application                  Node Startup 11
+0.002031536877  SN.node[13].Application                  Node Startup 13
+0.003536244016  SN.node[1].Application                   Node Startup 1
+0.006066428963  SN.node[5].Application                   Node Startup 5
+0.006279265799  SN.node[12].Application                  Node Startup 12
+0.01036214393   SN.node[14].Application                  Node Startup 14
+0.012394415086  SN.node[15].Application                  Node Startup 15
+0.014545237179  SN.node[4].Application                   Node Startup 4
+0.021853097004  SN.node[9].Application                   Node Startup 9
+0.025541380047  SN.node[6].Application                   Node Startup 6
+0.027539895218  SN.node[0].Application                   Node Startup 0
+0.027539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.028465566283  SN.node[7].Application                   Node Startup 7
+0.035407391109  SN.node[2].Application                   Node Startup 2
+0.041997452115  SN.node[3].Application                   Node Startup 3
+0.044647347892  SN.node[8].Application                   Node Startup 8
+0.044814654556  SN.node[10].Application                  Node Startup 10
+0.103536244016  SN.node[1].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.106066428963  SN.node[5].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.114545237179  SN.node[4].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.121853097004  SN.node[9].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.125541380047  SN.node[6].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.127539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.128465566283  SN.node[7].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.135407391109  SN.node[2].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.141997452115  SN.node[3].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.144647347892  SN.node[8].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.144814654556  SN.node[10].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.200937400513  SN.node[11].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.202031536877  SN.node[13].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.203536244016  SN.node[1].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.206066428963  SN.node[5].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.206279265799  SN.node[12].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.21036214393   SN.node[14].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.212394415086  SN.node[15].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.214545237179  SN.node[4].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.221853097004  SN.node[9].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.225541380047  SN.node[6].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.227539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.228465566283  SN.node[7].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.235407391109  SN.node[2].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.241997452115  SN.node[3].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.244647347892  SN.node[8].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.244814654556  SN.node[10].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.300937400513  SN.node[11].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.302031536877  SN.node[13].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.303536244016  SN.node[1].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.306066428963  SN.node[5].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.306279265799  SN.node[12].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.312394415086  SN.node[15].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.314545237179  SN.node[4].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.325541380047  SN.node[6].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.327539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.328465566283  SN.node[7].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.335407391109  SN.node[2].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.341997452115  SN.node[3].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.344647347892  SN.node[8].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.344814654556  SN.node[10].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.400937400513  SN.node[11].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.402031536877  SN.node[13].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.403536244016  SN.node[1].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.406066428963  SN.node[5].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.406279265799  SN.node[12].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.41036214393   SN.node[14].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.412394415086  SN.node[15].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.421853097004  SN.node[9].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.425541380047  SN.node[6].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.428465566283  SN.node[7].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.435407391109  SN.node[2].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.441997452115  SN.node[3].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.444647347892  SN.node[8].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.444814654556  SN.node[10].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.500937400513  SN.node[11].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.502031536877  SN.node[13].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.503536244016  SN.node[1].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.506066428963  SN.node[5].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.506279265799  SN.node[12].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.51036214393   SN.node[14].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+0.514545237179  SN.node[4].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+0.527539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.128465566283  SN.node[7].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.225541380047  SN.node[6].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.235407391109  SN.node[2].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.241997452115  SN.node[3].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.300937400513  SN.node[11].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+1.303536244016  SN.node[1].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.306279265799  SN.node[12].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+1.312394415086  SN.node[15].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+1.314545237179  SN.node[4].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.321853097004  SN.node[9].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.325541380047  SN.node[6].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.327539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.328465566283  SN.node[7].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.335407391109  SN.node[2].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.341997452115  SN.node[3].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.344647347892  SN.node[8].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.344814654556  SN.node[10].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+1.400937400513  SN.node[11].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+1.402031536877  SN.node[13].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+1.403536244016  SN.node[1].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.406066428963  SN.node[5].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.41036214393   SN.node[14].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+1.412394415086  SN.node[15].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+1.414545237179  SN.node[4].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+1.427539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.044647347892  SN.node[8].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.102031536877  SN.node[13].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.106279265799  SN.node[12].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.11036214393   SN.node[14].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.112394415086  SN.node[15].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.114545237179  SN.node[4].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.121853097004  SN.node[9].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.125541380047  SN.node[6].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.127539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.128465566283  SN.node[7].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.135407391109  SN.node[2].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.141997452115  SN.node[3].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.144814654556  SN.node[10].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.200937400513  SN.node[11].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.202031536877  SN.node[13].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.203536244016  SN.node[1].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.206066428963  SN.node[5].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.206279265799  SN.node[12].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.21036214393   SN.node[14].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.212394415086  SN.node[15].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.214545237179  SN.node[4].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.221853097004  SN.node[9].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.225541380047  SN.node[6].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.227539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.228465566283  SN.node[7].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.235407391109  SN.node[2].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.241997452115  SN.node[3].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.244647347892  SN.node[8].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.244814654556  SN.node[10].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.300937400513  SN.node[11].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.302031536877  SN.node[13].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.303536244016  SN.node[1].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.306066428963  SN.node[5].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.306279265799  SN.node[12].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.31036214393   SN.node[14].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.312394415086  SN.node[15].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.314545237179  SN.node[4].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.321853097004  SN.node[9].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.325541380047  SN.node[6].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.327539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.328465566283  SN.node[7].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.335407391109  SN.node[2].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.341997452115  SN.node[3].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.344647347892  SN.node[8].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.344814654556  SN.node[10].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.400937400513  SN.node[11].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.402031536877  SN.node[13].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.403536244016  SN.node[1].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.406066428963  SN.node[5].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.406279265799  SN.node[12].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.41036214393   SN.node[14].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.412394415086  SN.node[15].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.414545237179  SN.node[4].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.421853097004  SN.node[9].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.425541380047  SN.node[6].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.427539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.428465566283  SN.node[7].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.435407391109  SN.node[2].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.441997452115  SN.node[3].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.444647347892  SN.node[8].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.444814654556  SN.node[10].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.500937400513  SN.node[11].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.502031536877  SN.node[13].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.503536244016  SN.node[1].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.506066428963  SN.node[5].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.506279265799  SN.node[12].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.51036214393   SN.node[14].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.512394415086  SN.node[15].Application                  Sending [chaos-pkt] of size 10 bytes to communication layer
+2.514545237179  SN.node[4].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.521853097004  SN.node[9].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.525541380047  SN.node[6].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.527539895218  SN.node[0].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.528465566283  SN.node[7].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.535407391109  SN.node[2].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.541997452115  SN.node[3].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.544647347892  SN.node[8].Application                   Sending [chaos-pkt] of size 10 bytes to communication layer
+2.544814654556  SN.node[10].Application                  Node Done 10Rounds: 25
+2.600937400513  SN.node[11].Application                  Node Done 11Rounds: 26
+2.602031536877  SN.node[13].Application                  Node Done 13Rounds: 26
+2.603536244016  SN.node[1].Application                   Node Done 1Rounds: 26
+2.606066428963  SN.node[5].Application                   Node Done 5Rounds: 26
+2.606279265799  SN.node[12].Application                  Node Done 12Rounds: 26
+2.61036214393   SN.node[14].Application                  Node Done 14Rounds: 26
+2.612394415086  SN.node[15].Application                  Node Done 15Rounds: 26
+2.614545237179  SN.node[4].Application                   Node Done 4Rounds: 26
+2.621853097004  SN.node[9].Application                   Node Done 9Rounds: 26
+2.625541380047  SN.node[6].Application                   Node Done 6Rounds: 26
+2.627539895218  SN.node[0].Application                   Node Done 0Rounds: 26
+2.628465566283  SN.node[7].Application                   Node Done 7Rounds: 26
+2.635407391109  SN.node[2].Application                   Node Done 2Rounds: 26
+2.641997452115  SN.node[3].Application                   Node Done 3Rounds: 26
+2.644647347892  SN.node[8].Application                   Node Done 8Rounds: 26
